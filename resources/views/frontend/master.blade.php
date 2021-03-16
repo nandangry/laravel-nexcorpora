@@ -45,7 +45,7 @@
       <div class="container">
 
         <div class="row justify-content-center">
-          <div class="col-md-6">
+          <div class="col-md-6" style="margin-bottom:20px;">
             <a href="#header" class="scrollto footer-logo"><img src="assets/img/hero-logo.png" alt=""></a>
             <h3>Nex Corpora</h3>
             <div class="social-links">
