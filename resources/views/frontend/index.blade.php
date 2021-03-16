@@ -3,7 +3,7 @@
 @section('content')
   <!-- ======= Hero Section ======= -->
   <section id="hero">
-    <div class="hero-container">
+    <div class="hero-container" style="background: linear-gradient(35deg, #772953eb 30%, #e95420ba);">
       <a href="index.html" class="hero-logo" data-aos="zoom-in"><img src="assets/img/hero-logo.png" alt="" style="max-width: 25%;"></a>
       <h1 data-aos="zoom-in">Selamat Datang Di Nex Corpora</h1>
       <h2 data-aos="fade-up">Kami Adalah Start-up Basis Kuliner, Rumah Bagi <a href="http://manre.id">Manre</a></h2>

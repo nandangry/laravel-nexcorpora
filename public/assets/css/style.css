@@ -359,7 +359,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   line-height: 56px;
   color: #fff;
-  text-shadow: 2px 2px 8px #000000;
 }
 
 #hero h2 {
@@ -368,7 +367,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   font-weight: 800;
   text-transform: uppercase;
-  text-shadow: 2px 2px 8px #000000;
 }
 
 #hero .btn-get-started {
@@ -382,13 +380,13 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   margin: 10px;
   color: #fff;
-  background: #983354;
+  background: #c12166;
 }
 
 #hero .btn-get-started:hover {
   transition: 0.5s;
   background: #fff;
-  color: #983354;
+  color: #c12166;
 }
 
 @media (min-width: 1024px) {
@@ -1020,7 +1018,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.1);
+  background:linear-gradient(36deg, #000000 0%, #000000aa 60%)!important
 }
 
 .testimonials .quote-icon {
@@ -1589,7 +1587,8 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.85);
+  background: linear-gradient(205deg, #5c0f47 0%, #fb4f47b3 80%)!important;
+
   z-index: 1;
 }
 
