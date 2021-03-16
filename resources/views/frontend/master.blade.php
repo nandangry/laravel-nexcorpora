@@ -38,25 +38,46 @@
 <body>
 @yield('content')
   <!-- ======= Footer ======= -->
-  <footer id="footer">
+  <footer id="footer" class="contact section-bg">
 
     <div class="footer-top">
 
       <div class="container">
 
         <div class="row justify-content-center">
-          <div class="col-lg-6">
+          <div class="col-md-6">
             <a href="#header" class="scrollto footer-logo"><img src="assets/img/hero-logo.png" alt=""></a>
             <h3>Nex Corpora</h3>
+            <div class="social-links">
+              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="info d-flex flex-column justify-content-center" data-aos="fade-right" style="text-align:end;max-width:300px;margin:auto;">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Alamat:</h4>
+                <p>Jl. Kasuari No. 14,<br>Makassar, ID, 90173</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <a href="mailto:support@nexcorpora.com"><p>support@nexcorpora.com</p></a>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>(0411) 8055284</p>
+              </div>
+
+            </div>
+
           </div>
         </div>
-
-        <div class="social-links">
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
-
       </div>
     </div>
 

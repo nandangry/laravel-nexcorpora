@@ -358,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #000;
+  color: #fff;
   text-shadow: 2px 2px 8px #000000;
 }
 
@@ -497,14 +497,13 @@ section {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 400px;
 }
 
 /*--------------------------------------------------------------
 # Featured
 --------------------------------------------------------------*/
 .featured {
-  padding: 40px 0 0 0;
+  padding:0;
   background: white;
 }
 

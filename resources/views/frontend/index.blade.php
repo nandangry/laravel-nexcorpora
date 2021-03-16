@@ -31,17 +31,17 @@
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
               <h3>Kami, Nex Corpora</h3>
               <p class="font-italic">
-                Nex Corpora adalah sebuah perusahaan rintisan yang bergerak di bidang aplikasi berbasis kuliner.
+              Nex Corpora adalah sebuah perusahaan rintisan yang bergerak di bidang aplikasi berbasis kuliner.
               </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-              </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
+              Kami bermimpi menjadi perusahaan teknologi yang berfokus pada dunia kuliner terbesar dalam lingkup
+              Indonesia dan Internasional. Melalui produk yang diawali dari dapur para ibu rumah tangga menjadi
+              makanan yang disukai dengan harga yang terjangkau, dukungan teknologi, pelayanan cepat dan ramah,
+              pengendalian kualitas serta riset pasar dan pengembangan kreatif.</p>
+              <p>
+              Kami berjuang untuk menjadi perusahaan terkemuka di Indonesia dan di negara-negara sekitar dengan
+              pendekatan "New Retail" dimana tak ada lagi batasan dari interaksi online dan offline dalam upaya
+              kami memenuhi kebutuhan pelanggan akan makanan berkualitas dan pelayanan terbaik.
               </p>
             </div>
           </div>
@@ -56,34 +56,19 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Layanan Kami</h2>
-          <p>Di Nex Corpora, kami...</p>
+          <p>Di Nex Corpora, kami membangun Manre<br></p>
+          <hr>
         </div>
 
         <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
+          <div class="col-md-12" data-aos="fade-down" style="text-align:center;max-width:80%;display:block;margin:0 auto 30px auto;">
+          <p><b>Manre</b> diambil dari singkatan makanan dan resep, menjadi sebuah perusahaan berbasis
+          teknologi berfokus pada bidang kuliner kaki lima hingga restoran bintang 5 dengan pertumbuhan
+          tercepat di Indonesia. <b>Manre</b> dimulai dari mimpi para pendirinya untuk menyebarkan
+          kecintaan mereka akan dunia kuliner di Indonesia kepada masyarakat luas dan dunia.</p>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-              <img src="assets/img/services.jpg" alt="" style="max-width:80%;display:block;margin:0 auto;">
+          <div class="image col-md-12" data-aos="fade-up" data-aos-delay="100">
+              <img src="assets/img/services.jpg" alt="" style="max-width:60%;display:block;margin:0 auto;">
           </div>
         </div>
 
@@ -123,26 +108,26 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-                  <h4>Modi sit est</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <h4>Manre Bisnis</h4>
+                  <p>Dapatkan penawaran menarik bermitra usaha bersama Manre, dan raih beragam keuntungan.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-                  <h4>Unde praesentium sed</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <h4>Manre Food</h4>
+                  <p>Dapatkan akses ke berbagai menu makanan dan resep dalam pembuatannya di Manre, dan bagikan.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-                  <h4>Pariatur explicabo vel</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
+                  <h4>Manre Store</h4>
+                  <p>Belanja keperluan stok bahan baku dan utilitas dapur untuk menunjang usahamu, bisa.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-                  <h4>Nostrum qui quasi</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                  <h4>Manre Express</h4>
+                  <p>Ingin mengantarkan barang dan makanan, atau bergabung menjadi mitra kurir Manre, bisa.</p>
                 </a>
               </li>
             </ul>
@@ -157,17 +142,18 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2 style="margin-top:30px;">Lini Usaha Kami</h2>
-          <p>Di Nex Corpora, kami...</p>
+          <p>Di Nex Corpora, kami juga memiliki unit usaha kuliner ternama dan dicintai masyarakat 
+          lokal</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+            <a href="https://razakopi.com"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+            <a href="https://zabarger.com"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="200">
@@ -204,17 +190,6 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
                   Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -234,34 +209,12 @@
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section><!-- End Testimonials Section  -->
 
     <!-- ======= Team Section =======
     <section id="team" class="team">
