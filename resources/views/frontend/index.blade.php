@@ -68,7 +68,7 @@
           kecintaan mereka akan dunia kuliner di Indonesia kepada masyarakat luas dan dunia.</p>
           </div>
           <div class="image col-md-12" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/services.jpg" alt="" style="max-width:60%;display:block;margin:0 auto;">
+              <img src="assets/img/services.png" alt="" style="max-width:60%;display:block;margin:0 auto;">
           </div>
         </div>
 
