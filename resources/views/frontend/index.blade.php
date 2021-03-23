@@ -194,7 +194,7 @@
                 esok tanpa rasa takut, berarti anda sudah berada dijalan yang benar
                 menuju sukses.
                 </p>
-                <img src="assets/img/testimonials/tip_1.jpg" class="testimonial-img" alt="">
+                <img src="{{asset('assets/img/testimonials/tip_1.JPG')}}" class="testimonial-img" alt="">
                 <h3>Dian Purtinama</h3>
                 <h4>Nex Corpora</h4>
               </div>
@@ -207,7 +207,7 @@
                 mempersoalkan bagaimana masalah itu terjadi, tetapi mulailah dengan
                 bagaimana masalah tersebut dapat terselesaikan.
                 </p>
-                <img src="assets/img/testimonials/tip_2.jpg" class="testimonial-img" alt="">
+                <img src="{{asset('assets/img/testimonials/tip_2.JPG')}}" class="testimonial-img" alt="">
                 <h3>Asrul</h3>
                 <h4>Nex Corpora</h4>
               </div>
@@ -221,7 +221,7 @@
                 apa pangkatnya, melainkan apa yang telah diperbuat dengan tugas yang
                 diberikan Tuhan kepadanya.
                 </p>
-                <img src="assets/img/testimonials/tip_3.jpg" class="testimonial-img" alt="">
+                <img src="{{asset('assets/img/testimonials/tip_3.JPG')}}" class="testimonial-img" alt="">
                 <h3>Muhammad Najamuddin</h3>
                 <h4>Nex Corpora</h4>
               </div>
