@@ -61,14 +61,14 @@
         </div>
 
         <div class="row">
+          <div class="image col-md-12" data-aos="fade-up" data-aos-delay="100">
+              <img src="assets/img/services.png" alt="" style="max-width:40%;display:block;margin:0 auto;">
+          </div>
           <div class="col-md-12" data-aos="fade-down" style="text-align:center;max-width:80%;display:block;margin:0 auto 30px auto;">
           <p><b>Manre</b> diambil dari singkatan makanan dan resep, menjadi sebuah perusahaan berbasis
           teknologi berfokus pada bidang kuliner kaki lima hingga restoran bintang 5 dengan pertumbuhan
           tercepat di Indonesia. <b>Manre</b> dimulai dari mimpi para pendirinya untuk menyebarkan
           kecintaan mereka akan dunia kuliner di Indonesia kepada masyarakat luas dan dunia.</p>
-          </div>
-          <div class="image col-md-12" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/services.png" alt="" style="max-width:60%;display:block;margin:0 auto;">
           </div>
         </div>
 
