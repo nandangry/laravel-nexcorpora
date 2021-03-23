@@ -187,25 +187,43 @@
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
+          <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                Jika anda berpikir tentang hari kemarin tanpa rasa penyesalan dan hari
+                esok tanpa rasa takut, berarti anda sudah berada dijalan yang benar
+                menuju sukses.
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <img src="assets/img/testimonials/tip_1.jpg" class="testimonial-img" alt="">
+                <h3>Dian Purtinama</h3>
+                <h4>Nex Corpora</h4>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                Salah satu cara memecahkan masalah adalah jangan memulai dengan
+                mempersoalkan bagaimana masalah itu terjadi, tetapi mulailah dengan
+                bagaimana masalah tersebut dapat terselesaikan.
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <img src="assets/img/testimonials/tip_2.jpg" class="testimonial-img" alt="">
+                <h3>Asrul</h3>
+                <h4>Nex Corpora</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                Nilai manusia, bukan bagaimana ia mati, melainkan bagaimana ia hidup;
+                bukan apa yang diperoleh, melainkan apa yang telah diberikan; bukan
+                apa pangkatnya, melainkan apa yang telah diperbuat dengan tugas yang
+                diberikan Tuhan kepadanya.
+                </p>
+                <img src="assets/img/testimonials/tip_3.jpg" class="testimonial-img" alt="">
+                <h3>Muhammad Najamuddin</h3>
+                <h4>Nex Corpora</h4>
               </div>
             </div><!-- End testimonial item -->
 
